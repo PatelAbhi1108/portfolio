@@ -473,6 +473,22 @@ a {
         text-align: center;
         font-size: 40px;
     }
+    .skill-container-right .skills-logo {
+        width: 50px;
+    }
+    .skill-container-right .blob-style {
+        width: 250px;
+    }
+    .hero-section {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .hero-section-right {
+        margin-left: -500px;
+    }
+    .hero-section-left {
+        margin-top: 1px;
+    }
     .skills-container {
         padding: 5px;
         margin: 10px;
@@ -481,8 +497,9 @@ a {
         flex-direction: column;
     }
     .skill-fade-text {
-        left: 0;
-        margin-bottom: 11%;
+        left: -450px;
+        margin-bottom: 2%;
+        scale: 0.5;
     }
     .link-wrapper {
         margin-left: 0%;
