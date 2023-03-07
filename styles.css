@@ -458,12 +458,12 @@ a {
 }
 
 #project3 {
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./images/projects/Razorpay.jpg);
 }
 
 #project4 {
     margin-left: 120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/projects/discord.jpg);
 }
 
 @media (max-width:1300px) {
